@@ -1,7 +1,6 @@
 About Me
 
-Hi there! I'm LS_Wartaal
-Also known by my real name; Leon
+Hi there! I'm LS_Wartaal, also known by my real name; Leon
 I'm passionate developer with a love for coding and continuous learning. I enjoy working on a variety of projects, from web development to user tools. 
 - 💻 Languages & Tools: Python, HTML, CSS, and more.
 - 🌱 Currently Learning: Java, JavaScript, and C#.
